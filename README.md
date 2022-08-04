@@ -1,5 +1,5 @@
-Hi 👋 My name is Owaiz
-======================
+Hi 👋 My name is Owaiz Ahammed
+==============================
 
 Data Analyst
 ------------
