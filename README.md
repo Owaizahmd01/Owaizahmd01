@@ -6,7 +6,7 @@ Data Analyst
 
 Passionate about data analytics. Seeking opportunities where I can utilize my analytical and technical skills to solve real life problems related to analyzing a big volume of datasets to draw insights that can help with business decisions.
 
-* 🌍  I'm based in India
+* 🌍  I'm based in Chennai, India
 * ✉️  You can contact me at [owaizahammed07@gmail.com](mailto:owaizahammed07@gmail.com)
 * 🧠  I'm learning PowerBI Dax
 * 🤝  I'm open to collaborating on Instagram
