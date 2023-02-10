@@ -7,12 +7,11 @@ Data Analyst
 Passionate about data analytics. Seeking opportunities where I can utilize my analytical and technical skills to solve real life problems related to analyzing a big volume of datasets to draw insights that can help with business decisions.
 
 * 🌍  I'm based in Chennai, India
+* 🧠  I'm currently learning **Data Analytics stuff**
+* 👨‍💻 All of my projects are available at [https://www.novypro.com/profile_projects/owaizahammed](https://www.novypro.com/profile_projects/owaizahammed)
 * ✉️  You can contact me at [owaizahammed07@gmail.com](mailto:owaizahammed07@gmail.com)
-* 🧠  I'm learning Data Science stuff
-* 🤝  I'm open to collaborating on Instagram
+* 🤝  I'm open to collaborating on Linkedin
 
-<a href="https://www.github.com/Owaizahmd01" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Owaizahmd01?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a>
 
 ### Skills
 
@@ -21,12 +20,15 @@ src="https://img.shields.io/github/followers/Owaizahmd01?logo=github&style=for-t
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://powerbi.microsoft.com/en-au/" target="_blank" rel="noreferrer"> <img src="https://powerapps.microsoft.com/images/application-logos/svg/powerbi.svg" alt="Power BI Logo" width="35" height="35"/>
+
 </p>
-
-
+                                                                                                                                                  
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/Owaizahmd01" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/likeowaizz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/Owaiz Ahammed" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/Owaizahmd01" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/likeowaizz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/Owaiz Ahammed" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>  <a href="https://www.hackerrank.com/owiazahammed" target="blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="owiazahammed" height="32" width="32" /></a>
+</p>
+</p>
 
 ### Badges
 
