@@ -1,7 +1,7 @@
 Hi 👋 My name is Owaiz Ahammed
 ==============================
 
-Aspiring Data Analyst
+Data Analyst
 ------------
 
 Passionate about data analytics. Seeking opportunities where I can utilize my analytical and technical skills to solve real life problems related to analyzing a big volume of datasets to draw insights that can help with business decisions.
